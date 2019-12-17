@@ -1,0 +1,23 @@
+
+		h1{
+			color: red; 
+			font-family:Tahoma;
+			}
+		.font{
+			color:green; 
+			font-family:Tahoma;
+			}
+		.box{	
+			border: 2px solid;
+			color: blue;
+			}
+		#login{
+			float:center;
+			}
+		#reg{
+			float:center;
+			}
+        body {
+			background-image : url(log.jpg);
+			background-position : center;
+		}
